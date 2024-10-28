@@ -9,7 +9,7 @@
 
 <p align="left">
   <img src="./icons/python.png" alt="Python" width="40" height="40"/>
-  <img src="./icons/java.png" alt="Java" width="40" height="40"/>
+  <img src="./icons/node.png" alt="Java" width="40" height="40"/>
   <img src="./icons/docker.png" alt="Docker" width="40" height="40"/>
   <img src="./icons/aws.png" alt="AWS" width="40" height="40"/>
   <img src="./icons/spark.png" alt="Apache Spark" width="40" height="40"/>

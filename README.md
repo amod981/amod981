@@ -39,10 +39,6 @@
 
 ### 📫 Connect with Me
 
-[![LinkedIn](./icons/linkedin.png)](https://www.linkedin.com/in/amod-shanker-20a0a1187/)
-[![LeetCode](./icons/leetcode.png)](https://leetcode.com/amod981/)
-[![HackerRank](./icons/hackerrank.png)](https://www.hackerrank.com/onlinelearning91)
-
 <p align="left">
   <a href="https://www.linkedin.com/in/amod-shanker-20a0a1187/">
     <img src="./icons/linkedin.png" alt="LinkedIn" width="30" height="30"/>

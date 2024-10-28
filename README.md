@@ -22,17 +22,16 @@
 
 ### 🎓 Education
 
-<p align="left">
-  <img src="./icons/imperial_college.png" alt="Imperial College London" width="50" height="50"/>
-  **MSc in Business Analytics**  
-  Imperial College Business School, London, UK
-
-  <br/><br/>
-
-  <img src="./icons/iit_madras.png" alt="IIT Madras" width="50" height="50"/>
-  **Bachelor of Technology in Civil Engineering**  
-  Indian Institute of Technology Madras, Chennai, India
-</p>
+<table>
+  <tr>
+    <td><img src="./icons/imperial_college.png" alt="Imperial College London" width="60" height="40"></td>
+    <td><strong>MSc in Business Analytics</strong><br>Imperial College Business School, London, UK</td>
+  </tr>
+  <tr>
+    <td><img src="./icons/iit_madras.png" alt="IIT Madras" width="60" height="40"></td>
+    <td><strong>Bachelor of Technology in Civil Engineering</strong><br>Indian Institute of Technology Madras, Chennai, India</td>
+  </tr>
+</table>
 
 ---
 

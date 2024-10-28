@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Amod Shanker!
 
 **Data & AI Engineer**  
-📧 s.amod981@gmail.com | 📱 +44 7466009419  
+📧 s.amod981@gmail.com  
 
 ---
 
@@ -16,6 +16,22 @@
   <img src="./icons/mongodb.png" alt="MongoDB" width="40" height="40"/>
   <img src="./icons/kafka.png" alt="Kafka" width="40" height="40"/>
   <!-- Add more tool icons as necessary -->
+</p>
+
+---
+
+### 🎓 Education
+
+<p align="left">
+  <img src="./icons/imperial_college.png" alt="Imperial College London" width="50" height="50"/>
+  **MSc in Business Analytics**  
+  Imperial College Business School, London, UK
+
+  <br/><br/>
+
+  <img src="./icons/iit_madras.png" alt="IIT Madras" width="50" height="50"/>
+  **Bachelor of Technology in Civil Engineering**  
+  Indian Institute of Technology Madras, Chennai, India
 </p>
 
 ---

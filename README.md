@@ -43,8 +43,20 @@
 [![LeetCode](./icons/leetcode.png)](https://leetcode.com/amod981/)
 [![HackerRank](./icons/hackerrank.png)](https://www.hackerrank.com/onlinelearning91)
 
+<p align="left">
+  <a href="https://www.linkedin.com/in/amod-shanker-20a0a1187/">
+    <img src="./icons/linkedin.png" alt="LinkedIn" width="30" height="30"/>
+  </a>
+  <a href="https://leetcode.com/amod981/">
+    <img src="./icons/leetcode.png" alt="LeetCode" width="30" height="30"/>
+  </a>
+  <a href="https://www.hackerrank.com/onlinelearning91">
+    <img src="./icons/hackerrank.png" alt="HackerRank" width="30" height="30"/>
+  </a>
+</p>
+
 ---
 
 ### 📊 Profile Views
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&style=flat-square&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=amod981&style=flat-square&color=blue)
